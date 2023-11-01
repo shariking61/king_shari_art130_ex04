@@ -40,3 +40,21 @@
         height: auto;
         border-radius: 5%;
     }
+    .ingredients-list {
+        margin: 0.5rem 0;
+        padding: 0%;
+        text-align: left;
+    }
+    .ingredient-list li {
+        margin: 0.25em 0;
+    }
+    .view-button {
+        background-color: #609915;
+        color: #fff;
+        box-shadow: 5px 6px 11px -3px rgba(0, 0, 0, 0.3);
+        padding: 0.75em 1.5em;
+        text-decoration: none;
+        border-radius: 0.5rem;
+        margin-top: 1rem;
+    }
+    
