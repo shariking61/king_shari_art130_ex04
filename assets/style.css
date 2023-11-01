@@ -57,4 +57,9 @@
         border-radius: 0.5rem;
         margin-top: 1rem;
     }
-    
+    /*Media query! */
+    @media (max-width:768) {
+        .recipe-wrapper {
+            padding: 2.5rem 2rem;
+        }
+    }
